@@ -1,1 +1,1 @@
-"This feature belongs to feature1" 
+This is a part of feature additions (feature1 & Feature2)
